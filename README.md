@@ -1,6 +1,11 @@
 # KitFish
 
 <h2>Caracteristicas:</h2>
+
+
+<h4>[*] Cuenta con 40 plantillas [*]</h4>
+<h4>[*] Cuenta con 2 tunnel a elegir serveo/ngrok [*]</h4>
+<h4>[*] Puedes elegir el idioma de la pagina(ingles/español) [*]</h4>
 <h3>Al momento de enviar el link puedes:</h3>
 <ul>
 <li><strong>Colocar titulos</strong></li>
@@ -13,9 +18,6 @@
 <ul>
 <li><strong>Colocar un alertbox</strong></li>
 </ul>
-
-<h4>[*] Cuenta con 40 plantillas [*]</h4>
-<h4>[*] Cuenta con 2 tunnel a elegir serveo/ngrok [*]</h4>
 
 <h2>Instalación:</h2>
 <p>
