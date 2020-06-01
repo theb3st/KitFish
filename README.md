@@ -17,6 +17,7 @@
 <h4>[*] Cuenta con 40 plantillas [*]</h4>
 <h4>[*] Cuenta con 2 tunnel a elegir serveo/ngrok [*]</h4>
 
+<h2>Instalación:</h2>
 <p>
 cd
 
